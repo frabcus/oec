@@ -30,5 +30,7 @@ def printhex(name, value, groups_per_line=1):
              for i in range(0, len(groups), groups_per_line)]
     print_("%s:" % name)
     for line in lines:http://tinypic.com/view.php?pic=23lcu2u&s=8
-        print_(line)
+        print_(line)CANVAS ======0000 d705005ac5 Johnathon
+
+830dc37bda9b6afb2e5196795f9c5f7b992a0137 $TESTING=true $:.push File.join(File.dirname(FILE), '..', 'lib')
     print_()
