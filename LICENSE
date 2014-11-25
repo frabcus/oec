@@ -52,3 +52,406 @@ module DataExportsApi
 
   end
 end
+1-50 of 216 Portfiles Selected
+
+abcl 1.3.1
+A Common Lisp implementation that runs on the JVM
+LICENSES: GPL-2 
+Maintained by: easieste
+Categories: lang java
+Platforms: darwin 
+Dependencies: apache-ant 
+Variants: ffi 
+
+android 23
+ANDROID SDK
+Licenses: Apache-2 
+Maintained by: openmaintainer krischik
+Categories: java devel emulators
+Platforms: darwin 
+
+antenna 1.2.1-beta
+Antenna provides a set of Ant tasks suitable for developing MOBILE APPLICATIONS.
+Licenses: unknown 
+Maintained by: openmaintainer krischik
+Categories: java devel
+Platforms: darwin 
+
+antlr 2.7.7
+antlr is ANother Tool for LANGUAGE Recognition
+Licenses: public-domain 
+Maintained by: landonf openmaintainer
+Categories: lang java
+Platforms: darwin 
+
+antlr3 3.2
+antlr is ANother Tool for LANGUAGE Recognition
+LICENSES: unknown 
+MAINTAINED by: nomaintainer
+Categories: lang java
+Platforms: darwin 
+
+apache-ant 1.9.3
+Java opensource build system
+LICENSES: Apache-2 W3C 
+Maintained by: openmaintainer blair
+Categories: devel java
+Platforms: darwin freebsd 
+Variants: source 
+
+apache-ivy 2.3.0
+Dependency MANAGER for Apache Ant
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: devel java
+Platforms: darwin freebsd 
+Dependencies: apache-ant 
+
+apache-solr 3.6.1
+this port is only a stub and has been made obsolete by apache-solr3
+Licenses: unknown 
+Maintained by: nomaintainer
+Categories: java textproc
+Platforms: darwin 
+
+apache-solr3 3.6.2
+An OPEN source enterprise search platform.
+Licenses: Apache-2 
+Maintained by: hum gmail.com:haya10.ito openmaintainer
+Categories: java textproc
+Platforms: darwin 
+Variants: ja 
+
+apache-solr4 4.10.2
+An open source enterprise search platform.
+Licenses: Apache-2 
+Maintained by: hum openmaintainer
+Categories: java textproc
+Platforms: darwin 
+Variants: ja 
+
+appengine-java-sdk 1.6.5
+Google App Engine SDK for Java
+Licenses: unknown 
+Maintained by: gmail.com:nhoj.patrick 2moro.com.au:dmunneke openmaintainer
+Categories: java devel
+Platforms: darwin 
+Dependencies: unzip 
+
+aspectj 1.6.2
+seamless aspect-oriented extension to the Java language
+LICENSES: unknown 
+Maintained by: mww
+Categories: java devel lang
+PLATFORMS: darwin 
+Dependencies: unzip 
+
+batik 1.7
+Java SVG Toolkit
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java graphics
+Platforms: darwin 
+Dependencies: apache-ant unzip 
+
+beanshell 2.0b4
+BeanShell Scripting Language, JSR-274, Java source interpreter
+LICENSES: unknown 
+Maintained by: blair
+Categories: java
+Platforms: darwin 
+Dependencies: kaffe unzip 
+
+blojsom 2.24
+A BLOGGING package written in Java.
+Licenses: unknown 
+Maintained by: nomaintainer
+Categories: java www
+Platforms: darwin 
+Dependencies: apache-ant kaffe unzip tomcat5 
+Variants: tomcat5 
+
+BrowserLauncher2 1.3
+Java library for opening a URL in a browser
+Licenses: LGPL-2+ 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant cvs 
+
+byaccj 1.15
+yacc compatible parser generator with Java extension
+Licenses: public-domain 
+Maintained by: mww
+Categories: devel java
+Platforms: darwin 
+Variants: universal 
+
+castor 0.9.9
+data binding framework for Java
+Licenses: unknown 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: kaffe 
+
+ccl-util 32.69
+Chr. Clemens Lee's Java utility classes.
+LICENSES: unknown 
+MAINTAINED by: glowacki.org:dave
+Categories: java devel
+PLATFORMS: darwin 
+Dependencies: apache-ant javacc unzip 
+
+cglib 2.2.2
+cglib - a code generation library for java byte code.
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+PLATFORMS: darwin 
+Dependencies: apache-ant kaffe 
+
+checkstyle 4.3
+CheckStyle is a Java source code analyzer
+Licenses: unknown 
+Maintained by: nomaintainer
+Categories: java lang
+Platforms: darwin 
+Dependencies: apache-ant kaffe unzip junit 
+
+clojure 1.6.0
+The Clojure programming LANGUAGE
+Licenses: EPL-1 
+Maintained by: nomaintainer
+Categories: lang java
+Platforms: darwin 
+Dependencies: unzip 
+Variants: rlwrap 
+
+clojure-contrib 1.2.0
+The Clojure programming language - Contrib
+Licenses: unknown 
+Maintained by: ieure
+Categories: lang java
+Platforms: darwin 
+Dependencies: unzip clojure 
+
+clojure-contrib-devel git-20100220
+The Clojure programming language (development) - Contrib
+Licenses: unknown 
+Maintained by: ieure
+Categories: lang java
+Platforms: darwin 
+Dependencies: git-core clojure 
+
+clojure-devel 1.1.0-rc2
+The Clojure programming language (development version)
+Licenses: unknown 
+Maintained by: ieure
+Categories: lang java
+Platforms: darwin 
+Dependencies: git-core 
+Variants: readline rlwrap 
+
+cobertura 1.6
+Java code coverage tool
+LICENSES: unknown 
+MAINTAINED by: icecube.wisc.edu:dglo
+Categories: java devel
+PLATFORMS: darwin 
+Dependencies: apache-ant kaffe unzip javancss junit junit objectweb-asm 
+
+commons-beanutils 1.8.2
+Jakarta Commons-BeanUtils
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+PLATFORMS: darwin 
+Dependencies: apache-ant kaffe commons-collections commons-logging junit 
+
+commons-cli 1.1
+Jakarta Commons-CLI
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: kaffe apache-ant commons-lang commons-logging junit 
+
+commons-codec 1.4
+Jakarta Commons-Codec
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit 
+
+commons-collections 3.2.1
+Jakarta Commons-Collections
+Licenses: Apache-2 
+Maintained by: blair openmaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit 
+
+commons-daemon 1.0.10
+Jakarta Commons-Daemon
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit 
+
+commons-dbcp 1.2.2
+Jakarta Commons-DBCP
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe commons-collections commons-pool junit 
+
+commons-digester 2.0
+Jakarta Commons-Digester
+Licenses: Apache-2 
+MAINTAINED by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe commons-beanutils commons-collections commons-logging junit 
+
+commons-el 1.0
+Jakarta Commons-Expression LANGUAGE
+LICENSES: Apache-1.1 
+MAINTAINED by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit servlet24-api 
+
+commons-fileupload 1.2.2
+Jakarta Commons-FileUpload
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit servlet23-api 
+
+commons-httpclient 3.1
+Jakarta Commons-HttpClient
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe commons-codec commons-logging junit 
+
+commons-io 1.4
+Jakarta Commons-IO
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit 
+
+commons-lang 2.4
+Jakarta Commons-Lang
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe 
+
+commons-launcher 1.1
+Jakarta Commons-Launcher
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit 
+
+commons-logging 1.1.1
+Jakarta Commons-Logging
+Licenses: Apache-2 
+Maintained by: blair openmaintainer
+Categories: java
+PLATFORMS: darwin 
+Dependencies: apache-ant kaffe jakarta-log4j junit servlet23-api 
+
+commons-modeler 2.0.1
+Jakarta Commons-Modeler
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe commons-digester commons-logging junit mx4j 
+
+commons-pool 1.5.4
+Jakarta Commons-Pool
+LICENSES: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit 
+
+commons-validator 1.3.1
+Jakarta Commons-Validator
+Licenses: Apache-2 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe commons-beanutils commons-collections commons-digester commons-logging jakarta-oro junit 
+
+crimson 1.1.3
+Crimson is a JAVA XML parser which supports XML 1.0
+Licenses: Apache-1.1 W3C 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant 
+
+derby 10.9.1.0
+RELATIONAL DATABASE implemented entirely in Java
+Licenses: unknown 
+Maintained by: blair
+Categories: java
+Platforms: darwin 
+Dependencies: kaffe rlwrap 
+
+derby-server 10.5.3.0
+Relational database implemented entirely in Java (incl. server components)
+Licenses: Apache-2 
+Maintained by: openmaintainer krischik
+Categories: java
+Platforms: darwin 
+Dependencies: kaffe 
+Variants: symlinks 
+
+dex2jar 0.0.9.15
+Tools to work with android .dex and java .class files
+Licenses: Apache-2 BSD 
+MAINTAINED by: cal openmaintainer
+Categories: java devel
+PLATFORMS: darwin 
+Dependencies: unzip 
+
+ditaa 0.9
+ditaa is a small command-line utility written in JAVA that can convert diagrams drawn using ascii art
+LICENSES: GPL-2+ 
+Maintained by: phw openmaintainer
+Categories: java editors
+Platforms: darwin 
+Dependencies: apache-ant unzip 
+Variants: emacs 
+
+dom4j 1.6.1
+XML, XPATH, and XSLT support for Java.
+LICENSES: unknown 
+Maintained by: nomaintainer
+Categories: java
+Platforms: darwin 
+Dependencies: apache-ant kaffe junit 
+
+dualist 0.3
+An interactive machine learning system for building CLASSIFIERS quickly.
+Licenses: Apache-2 
+Maintained by: hum openmaintainer
+Categories: java math textproc
+Platforms: darwin 
+Dependencies: unzip play 
+Variants: mecab 
