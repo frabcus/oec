@@ -17,7 +17,7 @@ This project is licensed under the Creative Commons Share Alike unported license
 # You should have received a copy of the GNU Affero General Public License along
 # with this program. If not, see <http://www.gnu.org/licenses/>.
 #
-
+(We have broader plans for an "fxa relier library" in python, similar to the nascent nodejs one over at https://github.com/mozilla/fxa-relier-client. But that may not need to expose the low-level FxA login APIs since reliers should never be using those directly)
 module DataExportsApi
   class DataExport < ActiveRecord::Base
     include Workflow
